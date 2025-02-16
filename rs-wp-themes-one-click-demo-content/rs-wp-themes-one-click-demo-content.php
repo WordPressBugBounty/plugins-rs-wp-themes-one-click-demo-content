@@ -3,7 +3,7 @@
  * Plugin Name:       Rs Wp Themes One Click Demo Content
  * Plugin URI:
  * Description:       This is a Recommended Plugin for All RS WP THEMES
- * Version:           2.1.16
+ * Version:           2.1.17
  * Requires at least: 4.9
  * Requires PHP:      7.1
  * Author:            RS WP THEMES
@@ -72,6 +72,8 @@ function rswpthemes_ocdc_demo_import_lists(){
     }elseif('business-blogging' === $getRswpThemesSlug){
         $demo_lists = rswpthemes_ocdc_premium_demos();
     }elseif('digital-marketing-blog' === $getRswpThemesSlug){
+        $demo_lists = rswpthemes_ocdc_premium_demos();
+    }elseif('blogshop' === $getRswpThemesSlug){
         $demo_lists = rswpthemes_ocdc_premium_demos();
     }
 
