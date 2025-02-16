@@ -3,9 +3,9 @@ Contributors: rswpthemes
 Donate link: rswpthemes.com
 Tags: rswpthemes, import, content, demo, data, widgets, settings, redux, theme options
 Requires at least: 4.9
-Tested up to: 6.5
+Tested up to: 6.7
 Stable tag: 2.1.16
-Requires PHP: 5.6
+Requires PHP: 7.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
