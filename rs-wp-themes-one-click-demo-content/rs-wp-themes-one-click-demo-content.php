@@ -3,9 +3,9 @@
  * Plugin Name:       Rs Wp Themes One Click Demo Content
  * Plugin URI:
  * Description:       This is a Recommended Plugin for All RS WP THEMES
- * Version:           2.1.17
+ * Version:           2.1.18
  * Requires at least: 4.9
- * Requires PHP:      7.1
+ * Requires PHP:      8.1
  * Author:            RS WP THEMES
  * Author URI:        https://rswpthemes.com
  * License:           GPL v2 or later

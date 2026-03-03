@@ -1,36 +1,50 @@
 === RSWPTHEMES ONE CLICK DEMO CONTENT ===
 Contributors: rswpthemes
-Donate link: rswpthemes.com
-Tags: rswpthemes, import, content, demo, data, widgets, settings, redux, theme options
+Donate link: https://rswpthemes.com
+Tags: demo import, one click import, theme demo, starter template, content importer
 Requires at least: 4.9
-Tested up to: 6.7
-Stable tag: 2.1.17
-Requires PHP: 7.1
+Tested up to: 6.9
+Stable tag: 2.1.18
+Requires PHP: 8.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Setup you site with dummy data easily. Import settings, widgets and content with one click.  Your dummy data must have ZIP file of xml, dat and wie file. Put all this three files on one ZIP folder and import the ZIP file and
-your site will be ready within few seconds.
+Import RS WP THEMES demo content including settings, widgets, and starter templates with a single click.
 
 == Description ==
 
-Setup your site theme from [RS WP THEMES](https://rswpthemes.com/) site with template library dummy data easily. Import settings, widgets and content with one click. RS WP THEMES One click demo content requires [Advanced Import](https://wordpress.org/plugins/advanced-import/) Plugin to work normally.
+Easily set up your site using demo content from RS WP THEMES.
 
-While you use RS WP THEMES One Click Demo Content to import demo starter site, Images and demo files are fetches from respected theme Demo Sites form RSWPTHEMES. This helps you to import starter dmeo site with a single click.
+RSWPTHEMES One Click Demo Content allows you to import theme demo data including content, widgets, and settings with a single click.
+
+To use this plugin, you must install and activate the Advanced Import plugin:
+https://wordpress.org/plugins/advanced-import/
+
+When importing a demo, images and demo files are securely fetched from the official RS WP THEMES demo servers. This helps you quickly replicate the starter site layout.
+
+To import demo content manually, your ZIP file must include:
+- XML file (content)
+- DAT file (theme settings)
+- WIE file (widgets)
+
+All three files must be placed inside a single ZIP file before importing.
 
 == Installation ==
 
 = From your WordPress dashboard =
 
-1. Visit 'Plugins > Add New'
-2. Search for 'rswpthemes-one-click-demo-content'
-3. Activate RSWPTHEMES ONE CLICK DEMO CONTENT from Appearance > Plugins
-4. Go to the Appearance -> Demo Import
-5. Use available demo import
+1. Go to Plugins → Add New
+2. Search for "rswpthemes-one-click-demo-content"
+3. Click Install and Activate
+4. Go to Appearance → Demo Import
+5. Choose and import your preferred demo
 
 == Frequently Asked Questions ==
 
-= I have activated the plugin. Where to find the plugin page to import data? =
+= I have activated the plugin. Where can I import demo data? =
 
-You will find the import page in *wp-admin -> Appearance -> Demo Import*.
+After activation, go to:
 
+wp-admin → Appearance → Demo Import
+
+From there you can import available demo content.
